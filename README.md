@@ -15,6 +15,7 @@ age
 state of origin
 address
 
+my mind is made up
 
 2. Registration.html
 create a registration form that will capture the information above
